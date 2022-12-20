@@ -5,12 +5,10 @@
   font-weight: 600;
   font-style: normal;
 }
-body {
-  background-color: bisque;
-}
 
 .hello {
   color: red;
+  background: url('./icon.jpg');
   font-family: 'MyFont';
-  background: url('./icon.png');
+  font-size: x-large;
 }
